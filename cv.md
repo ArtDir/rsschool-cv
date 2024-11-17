@@ -53,10 +53,82 @@ Product Owner with 14 years of IT experience transitioning to Python Full-Stack 
 
 ## Source Code
 
-1. [Нейронный бот-психолог](https://gitflic.ru/project/artkir/neuro3) — AI проект, поднимающий охваты в социальных сетях благодаря беседе с сохранением контекста.
-2. [Автоматизация в Bitrix24](https://gitflic.ru/project/artkir/docs24) — AI, которая приводит в порядок адреса в таблицах Битрикса.
-3. [Нейро Настя](https://gitflic.ru/project/artkir/sreda-bot) — телеграм-бот, который дает обратную связь обучающемуся по изученному видео-уроку.
-4. [За Бота](https://gitflic.ru/project/artkir/zabota2) — проект, лайкающий и оставляющий комментарии в зависимости от темы постов пользователя.
-5. [Геолокатор](https://gitflic.ru/project/artkir/locator) — приложение на Next.js, которое группирует локации по близости от тайного покупателя по заданным критериям.
+1. [Neural Psychologist Bot](https://gitflic.ru/project/artkir/neuro3) — AI project increasing social media reach through context-preserving conversations.
+2. [Bitrix24 Automation](https://gitflic.ru/project/artkir/docs24) — AI that organizes addresses in Bitrix tables.
+3. [Neuro Nastya](https://gitflic.ru/project/artkir/sreda-bot) — Telegram bot providing feedback to a learner based on a video lesson.
+4. [Za Bota](https://gitflic.ru/project/artkir/zabota2) — Project liking and commenting based on user post topics.
+5. [Geolocator](https://gitflic.ru/project/artkir/locator) — Next.js application grouping locations by proximity for a mystery shopper based on specified criteria.
 
-*Я занимаюсь исключительно коммерческими проектами (некоторые из них под NDA), доступ к репозиториям — по запросу.*
+*I work exclusively on commercial projects (some under NDA), repository access upon request.*
+
+## Code Examples
+
+### Example 1: Training a Machine Learning Model with scikit-learn (Python)
+
+```python
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score
+
+# Load the Iris dataset
+iris = load_iris()
+X, y = iris.data, iris.target
+
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Create and train the KNN classifier
+knn = KNeighborsClassifier(n_neighbors=3)
+knn.fit(X_train, y_train)
+
+# Make predictions and evaluate accuracy
+y_pred = knn.predict(X_test)
+accuracy = accuracy_score(y_test, y_pred)
+print(f'Model accuracy: {accuracy:.2f}')
+
+```
+
+### Example 2: Asynchronous Web Scraping Using Modern JavaScript
+
+```javascript
+const axios = require('axios');
+const cheerio = require('cheerio');
+
+class WebScraper {
+    // Function to scrape top repositories from GitHub
+    async scrapeTopRepositories() {
+        try {
+            const response = await axios.get('https://github.com/trending');
+            const $ = cheerio.load(response.data);
+
+            const repositories = $('.Box-row').map((i, elem) => ({
+                name: $(elem).find('h3').text().trim(),
+                description: $(elem).find('p').text().trim(),
+                stars: $(elem).find('a.muted-link').first().text().trim()
+            })).get();
+
+            return repositories.slice(0, 5);
+        } catch (error) {
+            console.error('Error during scraping:', error);
+            return [];
+        }
+    }
+
+    // Function to display trending repositories
+    async displayTrending() {
+        const repos = await this.scrapeTopRepositories();
+        console.log('🔥 Top 5 GitHub Repositories:');
+        repos.forEach((repo, index) => {
+            console.log(`${index + 1}. ${repo.name}`);
+            console.log(`   📝 ${repo.description}`);
+            console.log(`   ⭐ ${repo.stars} stars\n`);
+        });
+    }
+}
+
+// Run the scraper
+const scraper = new WebScraper();
+scraper.displayTrending();
+
+```
