@@ -89,7 +89,7 @@ print(f'Model accuracy: {accuracy:.2f}')
 
 ```
 
-### Example 2: Asynchronous Web Scraping Using Modern JavaScript
+### Example 2: Asynchronous Web Scraping (JavaScript)
 
 ```javascript
 const axios = require('axios');
