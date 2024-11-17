@@ -132,3 +132,25 @@ const scraper = new WebScraper();
 scraper.displayTrending();
 
 ```
+
+### Recommendations from Entrepreneurs
+
+- [Ainur Abdulnasyrov](https://www.youtube.com/watch?v=KTBAZpi92LA&list=PLk1oPQ5FsFdmdurOhknixOhYxa6fxhpni) 
+  - Founder of LinguaLeo (12 million users worldwide)
+  - City: Kazan, Russia
+  - Status: Successful Technology Entrepreneur
+
+- [Azamat Ushanov](https://www.youtube.com/watch?v=CAPOyiy9cXc&list=PLk1oPQ5FsFdmdurOhknixOhYxa6fxhpni&index=2)
+  - Most Famous Information Business Expert in Russia
+  - City: Ufa, Russia
+  - Status: Leader in Online Education
+
+- [Leonid Egorov](https://www.youtube.com/watch?list=PLk1oPQ5FsFdmdurOhknixOhYxa6fxhpni&v=R8o69U25m1Y)
+  - Entrepreneur
+  - Director of Yuri Moroz Institute
+  - City: Saint Petersburg, Russia
+
+- [Oleg Ivanchikhin](https://www.youtube.com/watch?list=PLk1oPQ5FsFdmdurOhknixOhYxa6fxhpni&v=JyzCgyhyGMU)
+  - Founder of Contact Technologies Group
+  - City: Jerusalem, Israel
+  - Status: International Entrepreneur
