@@ -24,11 +24,11 @@ Product Owner with 14 years of IT experience transitioning to Python Full-Stack 
 - **UX/UI Design**: Create user-friendly interfaces and conduct A/B testing to optimize user experience.
 
 ## Professional Experience
-`2022 - 2024` LLC «Servizoriya» — Project Manager: developed «Metaverse» and «Environment» products, created neural assistant for teachers
-`2020 - 2022:` Individual Entrepreneur: developed IT solutions, managed distributed teams
-`2018 - 2020` LLC «Inself» — Co-founder: launched B2C and B2B products
-`2016 - 2018` LLC «Uroven90» — Product Owner
-`2010 - 2016` LLC «Svet Mayaka» — Chief Developer
+- `2022 - 2024` LLC «Servizoriya» — Project Manager: developed «Metaverse» and «Environment» products, created neural assistant for teachers
+- `2020 - 2022:` Individual Entrepreneur: developed IT solutions, managed distributed teams
+- `2018 - 2020` LLC «Inself» — Co-founder: launched B2C and B2B products
+- `2016 - 2018` LLC «Uroven90» — Product Owner
+- `2010 - 2016` LLC «Svet Mayaka» — Chief Developer
 
 
 ## Education and Qualifications
