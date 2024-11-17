@@ -154,3 +154,5 @@ scraper.displayTrending();
   - Founder of Contact Technologies Group
   - City: Jerusalem, Israel
   - Status: International Entrepreneur
+
+*To watch the video testimonial about Kir Yashchenko's work from the listed individuals, simply click on the link with their name.*
