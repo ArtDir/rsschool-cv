@@ -50,3 +50,13 @@ Product Owner with 14 years of IT experience transitioning to Python Full-Stack 
 - [**Pinator 3.0**](https://t.me/@yaboltun_bot): Developed a SaaS service for goal setting with over 30,000 bots created in VK, an automated sales funnel with a 62% conversion rate to subscription and 11% to sales.
 
 - [**Metaverse Servisoria Land**](https://www.roblox.com/games/13340302526/Servisoria-Land): Created an educational gaming platform in Roblox with mechanics for completing the adaptation plan, implemented gamification elements, and presented at major conferences.
+
+## Source Code
+
+1. [Нейронный бот-психолог](https://gitflic.ru/project/artkir/neuro3) — AI проект, поднимающий охваты в социальных сетях благодаря беседе с сохранением контекста.
+2. [Автоматизация в Bitrix24](https://gitflic.ru/project/artkir/docs24) — AI, которая приводит в порядок адреса в таблицах Битрикса.
+3. [Нейро Настя](https://gitflic.ru/project/artkir/sreda-bot) — телеграм-бот, который дает обратную связь обучающемуся по изученному видео-уроку.
+4. [За Бота](https://gitflic.ru/project/artkir/zabota2) — проект, лайкающий и оставляющий комментарии в зависимости от темы постов пользователя.
+5. [Геолокатор](https://gitflic.ru/project/artkir/locator) — приложение на Next.js, которое группирует локации по близости от тайного покупателя по заданным критериям.
+
+*Я занимаюсь исключительно коммерческими проектами (некоторые из них под NDA), доступ к репозиториям — по запросу.*
