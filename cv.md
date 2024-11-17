@@ -41,12 +41,12 @@ Product Owner with 14 years of IT experience transitioning to Python Full-Stack 
 
 ## Key Projects
 
-- **Lively.ru**: Completed a turnkey project, assembled a team of 14 people, created 5 paid products and 50+ articles, tested sales funnels, and developed SEO and targeted advertising strategies.
+- [**Lively.ru**](https://lively.ru): Completed a turnkey project, assembled a team of 14 people, created 5 paid products and 50+ articles, tested sales funnels, and developed SEO and targeted advertising strategies.
 
-- **Neuro Freud AI bot** (https://vk.com/wall318680_15486): Developed an ironic bot that increased the number of comments by 23 times, conducted 3141 consultations, and left 215 links to paid products.
+- [**Neuro Freud AI bot**](https://vk.com/wall318680_15486): Developed an ironic bot that increased the number of comments by 23 times, conducted 3141 consultations, and left 215 links to paid products.
 
-- **Sreda AI Edu-platform** (https://sreda.works): Created an educational HR platform with individual learning paths for corporate clients, conducted usability tests, and set up promotion through Yandex.Direct.
+- [**Sreda AI Edu-platform**](https://sreda.works): Created an educational HR platform with individual learning paths for corporate clients, conducted usability tests, and set up promotion through Yandex.Direct.
 
-- **Pinator 3.0** (https://t.me/@yaboltun_bot): Developed a SaaS service for goal setting with over 30,000 bots created in VK, an automated sales funnel with a 62% conversion rate to subscription and 11% to sales.
+- [**Pinator 3.0**](https://t.me/@yaboltun_bot): Developed a SaaS service for goal setting with over 30,000 bots created in VK, an automated sales funnel with a 62% conversion rate to subscription and 11% to sales.
 
-- **Metaverse Servisoria Land** (https://www.roblox.com/games/13340302526/Servisoria-Land): Created an educational gaming platform in Roblox with mechanics for completing the adaptation plan, implemented gamification elements, and presented at major conferences.
+- [**Metaverse Servisoria Land**](https://www.roblox.com/games/13340302526/Servisoria-Land): Created an educational gaming platform in Roblox with mechanics for completing the adaptation plan, implemented gamification elements, and presented at major conferences.
