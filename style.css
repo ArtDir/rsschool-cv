@@ -63,6 +63,7 @@ h2 {
     width: 200px;
     height: auto;
     border: 1px solid #e0e0e0;
+    margin-top: 1em;
 }
 
 .contact-info ul {
@@ -136,4 +137,51 @@ h2 {
     .profile-photo {
         width: 150px;
     }
+}
+
+.professional-experience,
+.education-qualifications {
+    margin-bottom: 30px;
+}
+
+.job-experience {
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.job-experience h3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.job-experience h3 time {
+    font-size: 0.9em;
+    color: #7f8c8d;
+}
+
+.job-experience h4 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.job-experience ul {
+    list-style-type: disc;
+    padding-left: 30px;
+}
+
+.education-qualifications ul {
+    list-style-type: disc;
+    padding-left: 30px;
+}
+
+.education-qualifications em {
+    color: #7f8c8d;
+}
+
+.certificates-note {
+    margin-top: 15px;
+    font-size: 0.9em;
 }
