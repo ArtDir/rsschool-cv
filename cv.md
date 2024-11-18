@@ -170,7 +170,7 @@ scraper.displayTrending();
 
 ```
 
-### Recommendations from Entrepreneurs
+## Recommendations from Entrepreneurs
 
 - [Ainur Abdulnasyrov](https://www.youtube.com/watch?v=KTBAZpi92LA&list=PLk1oPQ5FsFdmdurOhknixOhYxa6fxhpni) 
   - Founder of LinguaLeo (12 million users worldwide)
