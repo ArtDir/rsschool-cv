@@ -1,1 +1,1 @@
-https://ArtDir.github.io/rsschool-cv/cv
+https://ArtDir.github.io/rsschool-cv/
